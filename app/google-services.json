@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "348735510532",
+    "project_id": "fir-cloudmessengingema",
+    "storage_bucket": "fir-cloudmessengingema.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348735510532:android:914d157cd2e6047028fd51",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmessenging_ema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348735510532-stbbj9nr8fb3h76u4clendk6a2fgoiv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXgyufzUbtALGRm8lBa7IAj71vwhk2JHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348735510532-stbbj9nr8fb3h76u4clendk6a2fgoiv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348735510532:android:e45e4788f12936f028fd51",
+        "android_client_info": {
+          "package_name": "com.example.firebaseema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348735510532-stbbj9nr8fb3h76u4clendk6a2fgoiv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXgyufzUbtALGRm8lBa7IAj71vwhk2JHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348735510532-stbbj9nr8fb3h76u4clendk6a2fgoiv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
